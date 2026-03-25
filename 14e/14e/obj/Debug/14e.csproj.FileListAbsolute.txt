@@ -1,0 +1,7 @@
+C:\Users\jhemily.lslauro\source\repos\14e\14e\obj\Debug\14e.csproj.AssemblyReference.cache
+C:\Users\jhemily.lslauro\source\repos\14e\14e\obj\Debug\14e.csproj.CoreCompileInputs.cache
+C:\Users\jhemily.lslauro\source\repos\14e\14e\bin\Debug\14e.exe.config
+C:\Users\jhemily.lslauro\source\repos\14e\14e\bin\Debug\14e.exe
+C:\Users\jhemily.lslauro\source\repos\14e\14e\bin\Debug\14e.pdb
+C:\Users\jhemily.lslauro\source\repos\14e\14e\obj\Debug\14e.exe
+C:\Users\jhemily.lslauro\source\repos\14e\14e\obj\Debug\14e.pdb

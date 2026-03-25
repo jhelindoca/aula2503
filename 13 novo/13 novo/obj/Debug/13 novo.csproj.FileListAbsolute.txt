@@ -1,0 +1,7 @@
+C:\Users\jhemily.lslauro\source\repos\13 novo\13 novo\bin\Debug\13 novo.exe.config
+C:\Users\jhemily.lslauro\source\repos\13 novo\13 novo\bin\Debug\13 novo.exe
+C:\Users\jhemily.lslauro\source\repos\13 novo\13 novo\bin\Debug\13 novo.pdb
+C:\Users\jhemily.lslauro\source\repos\13 novo\13 novo\obj\Debug\13 novo.csproj.AssemblyReference.cache
+C:\Users\jhemily.lslauro\source\repos\13 novo\13 novo\obj\Debug\13 novo.csproj.CoreCompileInputs.cache
+C:\Users\jhemily.lslauro\source\repos\13 novo\13 novo\obj\Debug\13 novo.exe
+C:\Users\jhemily.lslauro\source\repos\13 novo\13 novo\obj\Debug\13 novo.pdb

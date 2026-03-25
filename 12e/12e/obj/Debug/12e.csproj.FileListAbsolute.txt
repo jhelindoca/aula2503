@@ -1,0 +1,7 @@
+C:\Users\jhemily.lslauro\source\repos\12e\12e\bin\Debug\12e.exe.config
+C:\Users\jhemily.lslauro\source\repos\12e\12e\bin\Debug\12e.exe
+C:\Users\jhemily.lslauro\source\repos\12e\12e\bin\Debug\12e.pdb
+C:\Users\jhemily.lslauro\source\repos\12e\12e\obj\Debug\12e.csproj.AssemblyReference.cache
+C:\Users\jhemily.lslauro\source\repos\12e\12e\obj\Debug\12e.csproj.CoreCompileInputs.cache
+C:\Users\jhemily.lslauro\source\repos\12e\12e\obj\Debug\12e.exe
+C:\Users\jhemily.lslauro\source\repos\12e\12e\obj\Debug\12e.pdb
